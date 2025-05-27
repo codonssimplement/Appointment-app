@@ -1,6 +1,6 @@
 import React from "react";
 //import { FaBell } from "react-icons/fa";
-import { LuPencilLine } from "react-icons/lu";
+//import { LuPencilLine } from "react-icons/lu";
 import profil from "../assets/images/profil.png";
 import Menu from "./Menu";
 //import { FaUserFriends } from "react-icons/fa";
